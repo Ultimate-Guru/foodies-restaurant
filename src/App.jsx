@@ -27,7 +27,7 @@ const App = () => {
       <Hero />
       <Services />
       <Banner />
-      {/* <CoverBanner /> */}
+      <CoverBanner />
       <AppStore />
       <Testimonial />
       <Footer />
