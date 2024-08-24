@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import React from "react";
 import Logo from "../../assets/food-logo.png";
 import { FaCartShopping } from "react-icons/fa6";
